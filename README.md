@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar Sharma</h1>
-<h3 align="center">A passionate ARVR developer from India</h3>
+<h3 align="center">A passionate ARVR/Sofware developer and AI Enthusiat from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skullfighter&label=Profile%20views&color=0e75b6&style=flat" alt="skullfighter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skullfighter" alt="skullfighter" /></a> </p>
 
-- 🌱 I’m currently learning **How to live**
+- 🌱 I’m currently learning **TO BE GOOD COMMUNICATOR**
 
 - 💬 Ask me about **Augmented Reality and Virtual Reality**
 
