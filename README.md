@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skullfighter" alt="skullfighter" /></a> </p>
 
-- 🌱 I’m currently learning **TO BE GOOD COMMUNICATOR**
+- 🌱 I’m currently learning **TO BE GREAT COMMUNICATOR**
 
 - 💬 Ask me about **Augmented Reality and Virtual Reality**
 
