@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skullfighter" alt="skullfighter" /></a> </p>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **How to live**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Augmented Reality and Virtual Reality**
 
 - 📫 How to reach me **sharma.vikas.6298@gmail.com**
 
